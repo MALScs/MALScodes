@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Alshehry (@MALScodes)!
+- 👋 Hi, I’m Mohammed Alshehry (@MALScs)!
 - 👀 I’ma passionate coder and lifelong learner, always eager to explore new horizons in the world of programming.
 - 🌱 Currently, I'm a 21-year-old student at KFUPM, constantly expanding my knowledge and sharpening my skills.
 - 💞️ I'm actively seeking collaborations on exciting projects that challenge me and push the boundaries of my abilities.
